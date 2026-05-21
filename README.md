@@ -1,5 +1,5 @@
 # C Programming
 
-This repository contains my C programming practice codes, algorithms, and problem-solving exercises.
+Learning C language from basic to advanced with problem solving.
 
 Author: Md Ekramul Hasan
